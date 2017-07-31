@@ -1,0 +1,58 @@
+00400000-0048a000 r-xp 00000000 08:02 45187076                           /bin/bash
+00689000-0068a000 r--p 00089000 08:02 45187076                           /bin/bash
+0068a000-0068f000 rw-p 0008a000 08:02 45187076                           /bin/bash
+0068f000-00821000 rw-p 00000000 00:00 0                                  [heap]
+7f4ef534f000-7f4ef546c000 r--p 00000000 08:02 49194007                   /usr/lib/locale/en_US.utf8/LC_COLLATE
+7f4ef546f000-7f4ef5484000 r-xp 00000000 08:02 57008308                   /lib64/libnsl-2.11.3.so
+7f4ef5484000-7f4ef5683000 ---p 00015000 08:02 57008308                   /lib64/libnsl-2.11.3.so
+7f4ef5683000-7f4ef5684000 r--p 00014000 08:02 57008308                   /lib64/libnsl-2.11.3.so
+7f4ef5684000-7f4ef5685000 rw-p 00015000 08:02 57008308                   /lib64/libnsl-2.11.3.so
+7f4ef5685000-7f4ef5687000 rw-p 00000000 00:00 0 
+7f4ef5687000-7f4ef569a000 r-xp 00000000 08:02 57008422                   /lib64/libresolv-2.11.3.so
+7f4ef569a000-7f4ef589a000 ---p 00013000 08:02 57008422                   /lib64/libresolv-2.11.3.so
+7f4ef589a000-7f4ef589b000 r--p 00013000 08:02 57008422                   /lib64/libresolv-2.11.3.so
+7f4ef589b000-7f4ef589c000 rw-p 00014000 08:02 57008422                   /lib64/libresolv-2.11.3.so
+7f4ef589c000-7f4ef589e000 rw-p 00000000 00:00 0 
+7f4ef589f000-7f4ef58dd000 r-xp 00000000 08:02 57008302                   /lib64/libncurses.so.5.6
+7f4ef58dd000-7f4ef5add000 ---p 0003e000 08:02 57008302                   /lib64/libncurses.so.5.6
+7f4ef5add000-7f4ef5ae1000 r--p 0003e000 08:02 57008302                   /lib64/libncurses.so.5.6
+7f4ef5ae1000-7f4ef5ae7000 rw-p 00042000 08:02 57008302                   /lib64/libncurses.so.5.6
+7f4ef5ae7000-7f4ef5c59000 r-xp 00000000 08:02 57008134                   /lib64/libc-2.11.3.so
+7f4ef5c59000-7f4ef5e59000 ---p 00172000 08:02 57008134                   /lib64/libc-2.11.3.so
+7f4ef5e59000-7f4ef5e5d000 r--p 00172000 08:02 57008134                   /lib64/libc-2.11.3.so
+7f4ef5e5d000-7f4ef5e5e000 rw-p 00176000 08:02 57008134                   /lib64/libc-2.11.3.so
+7f4ef5e5e000-7f4ef5e63000 rw-p 00000000 00:00 0 
+7f4ef5e67000-7f4ef5e69000 r-xp 00000000 08:02 57008174                   /lib64/libdl-2.11.3.so
+7f4ef5e69000-7f4ef6069000 ---p 00002000 08:02 57008174                   /lib64/libdl-2.11.3.so
+7f4ef6069000-7f4ef606a000 r--p 00002000 08:02 57008174                   /lib64/libdl-2.11.3.so
+7f4ef606a000-7f4ef606b000 rw-p 00003000 08:02 57008174                   /lib64/libdl-2.11.3.so
+7f4ef606f000-7f4ef60a8000 r-xp 00000000 08:02 57008228                   /lib64/libreadline.so.5.2
+7f4ef60a8000-7f4ef62a7000 ---p 00039000 08:02 57008228                   /lib64/libreadline.so.5.2
+7f4ef62a7000-7f4ef62a9000 r--p 00038000 08:02 57008228                   /lib64/libreadline.so.5.2
+7f4ef62a9000-7f4ef62af000 rw-p 0003a000 08:02 57008228                   /lib64/libreadline.so.5.2
+7f4ef62af000-7f4ef62b1000 rw-p 00000000 00:00 0 
+7f4ef62b7000-7f4ef62d6000 r-xp 00000000 08:02 57008140                   /lib64/ld-2.11.3.so
+7f4ef630e000-7f4ef630f000 rw-p 00000000 00:00 0 
+7f4ef630f000-7f4ef634e000 r--p 00000000 08:02 49193993                   /usr/lib/locale/en_US.utf8/LC_CTYPE
+7f4ef634f000-7f4ef6350000 r--p 00000000 08:02 49193975                   /usr/lib/locale/en_US.utf8/LC_NUMERIC
+7f4ef6357000-7f4ef6358000 r--p 00000000 08:02 49178749                   /usr/lib/locale/en_US.utf8/LC_TIME
+7f4ef635f000-7f4ef6386000 r-xp 00000000 08:02 57008136                   /lib64/libnss_centrifydc.so.2
+7f4ef6386000-7f4ef6486000 ---p 00027000 08:02 57008136                   /lib64/libnss_centrifydc.so.2
+7f4ef6486000-7f4ef648b000 rw-p 00027000 08:02 57008136                   /lib64/libnss_centrifydc.so.2
+7f4ef648d000-7f4ef648f000 rw-p 00000000 00:00 0 
+7f4ef648f000-7f4ef6490000 r--p 00000000 08:02 49178728                   /usr/lib/locale/en_US.utf8/LC_MONETARY
+7f4ef6497000-7f4ef6498000 r--p 00000000 08:02 49193934                   /usr/lib/locale/en_US.utf8/LC_MESSAGES/SYS_LC_MESSAGES
+7f4ef649f000-7f4ef64a0000 r--p 00000000 08:02 49193919                   /usr/lib/locale/en_US.utf8/LC_PAPER
+7f4ef64a7000-7f4ef64a8000 r--p 00000000 08:02 49193932                   /usr/lib/locale/en_US.utf8/LC_NAME
+7f4ef64af000-7f4ef64b0000 r--p 00000000 08:02 49178383                   /usr/lib/locale/en_US.utf8/LC_ADDRESS
+7f4ef64b7000-7f4ef64b8000 r--p 00000000 08:02 49193902                   /usr/lib/locale/en_US.utf8/LC_TELEPHONE
+7f4ef64bf000-7f4ef64c0000 r--p 00000000 08:02 49193995                   /usr/lib/locale/en_US.utf8/LC_MEASUREMENT
+7f4ef64c7000-7f4ef64ce000 r--s 00000000 08:02 49193798                   /usr/lib64/gconv/gconv-modules.cache
+7f4ef64cf000-7f4ef64d0000 r--p 00000000 08:02 49178396                   /usr/lib/locale/en_US.utf8/LC_IDENTIFICATION
+7f4ef64d4000-7f4ef64d6000 rw-p 00000000 00:00 0 
+7f4ef64d6000-7f4ef64d7000 r--p 0001f000 08:02 57008140                   /lib64/ld-2.11.3.so
+7f4ef64d7000-7f4ef64d9000 rw-p 00020000 08:02 57008140                   /lib64/ld-2.11.3.so
+7f4ef64d9000-7f4ef64da000 rw-p 00000000 00:00 0 
+7ffd98bd7000-7ffd98bf8000 rw-p 00000000 00:00 0                          [stack]
+7ffd98c07000-7ffd98c08000 r-xp 00000000 00:00 0                          [vdso]
+ffffffffff600000-ffffffffff601000 r-xp 00000000 00:00 0                  [vsyscall]

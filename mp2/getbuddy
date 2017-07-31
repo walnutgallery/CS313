@@ -1,0 +1,6 @@
+Addr getBuddy(Addr a, int size)
+{
+	Addr start = (Addr) (a - sizeof(node));
+	Addr buddy = (Addr) ((int)start ^ size);
+	return (Addr) ((int)buddy + (int)start )
+}
